@@ -1,0 +1,13 @@
+{
+  "short_name": "Media",
+  "name": "Practica Media",
+  "icons": [
+    {
+      "src": "raven.png"
+    }
+  ],
+  "start_url": "https://mordinasmultimedia.netlify.app/?authuser=0",
+  "display": "standalone",
+  "theme_color": "#0a0a23",
+  "background_color": "#d4d9df"
+}
