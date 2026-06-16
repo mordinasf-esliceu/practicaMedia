@@ -26,6 +26,8 @@ header {
 .galeria .img {
   align-self: center;
   width: 100vw;
+  align-content: center;
+  justify-content: center;
 }
 
 .img img {
@@ -33,21 +35,22 @@ header {
   align-self: center;
   justify-self: center;
   object-fit: cover;
-  object-fit: cover;
   object-position: bottom;
   border: none;
   padding-bottom: 0;
+  
 }
 
 .img h4 {
   align-self: center;
   justify-self: center;
-  margin-bottom: 0;
+  font-size: x-large;
 }
 
-.img p {
+.img audio{
   align-self: center;
   justify-self: center;
+  width: 100%;
   
 }
 
